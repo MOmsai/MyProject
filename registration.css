@@ -1,0 +1,35 @@
+body{
+    background-image: url(tvs1.avif);
+    background-repeat: no-repeat;
+    background-size: 1500px 750px;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    color: #edcc12;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+label{
+    font-size: 23px;
+    font-weight: bold;
+    color: navy;
+}
+input{
+    height: 30px;
+    width: 300px;
+    color: #ff0051;
+}
+button{
+    color: #ff0051;
+    font-weight: bold;
+    background-color: #edcc12;
+   
+
+}
+button:hover{
+    background-color: cornflowerblue;
+}
